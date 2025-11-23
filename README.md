@@ -36,10 +36,11 @@ categories, statistics chart, task filtering, and auto-saving.
 
 ## 🎨 **Screenshots**
 assets/
-├── banner.png
-├── screenshot_home.png
-├── screenshot_categories.png
-├── screenshot_chart.png
+<img width="1915" height="1045" alt="image" src="https://github.com/user-attachments/assets/23cc2790-c762-4502-b579-856b1d1af157" />
+<img width="516" height="395" alt="image" src="https://github.com/user-attachments/assets/c7a7c6bf-1d80-4316-ae93-e34b44d0f1db" />
+<img width="997" height="416" alt="image" src="https://github.com/user-attachments/assets/fda2a6f9-33a8-4c39-b7b0-74c403310fbe" />
+<img width="1610" height="627" alt="image" src="https://github.com/user-attachments/assets/ddee6def-50a2-4052-ad3c-9b2a4eae9ae7" />
+
 
 yaml
 Copy code
