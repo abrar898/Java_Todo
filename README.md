@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 📝 **OTDO – Java Swing To-Do Application**
+# 📝 **TODO– Java Swing To-Do Application**
 A modern, elegant, fully responsive **Java Swing desktop To-Do App** with  
 categories, statistics chart, task filtering, and auto-saving.
 
