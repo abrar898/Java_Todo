@@ -64,21 +64,22 @@ jar cfe OTDO.jar Main *.class
 🏗 Project Structure
 css
 Copy code
-src/
- ├── Main.java
- ├── Task.java
- ├── Category.java
- ├── StorageManager.java
- ├── UI/
- │   ├── Sidebar.java
- │   ├── TaskListPanel.java
- │   ├── HeaderBar.java
- │   ├── CategoryPanel.java
- │   ├── ChartPanel.java
- │   └── RoundedPanel.java
- └── util/
-     ├── Colors.java
-     ├── Utils.java
+~/Desktop/todojava/
+│── DefaultPieDataset.java
+│── Notif/
+│── tasks.dat
+│── Todo/
+│   ├── Notification.java
+│   ├── TaskDialog.java
+│   ├── Task.java
+│   ├── TaskListPanel.java
+│   ├── TaskRenderer.java
+│   ├── TaskStore.java
+│   ├── todo/
+│   ├── Todo/
+│   ├── TodoApp.java
+│   ├── UIComponents.java
+
 🔮 Future Improvements
 Dark mode
 
